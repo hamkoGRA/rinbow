@@ -71,4 +71,4 @@ client.on('ready', () => {
 
 
 keepAlive()
-client.login(TOKEN);
+client.login(OTMxMzc3NjQ5NTc2NzEwMjA0.YeDjBw.l6IuW5cIGYtvNHqTfl12zXDCtUc);
